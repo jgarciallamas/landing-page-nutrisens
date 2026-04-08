@@ -52,7 +52,7 @@ export default function Solution() {
           <p className="text-lg text-gray-mid max-w-2xl mx-auto">{t('subtitle')}</p>
         </motion.div>
 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-6">
           {features.map((feature, i) => (
             <motion.div
               key={i}
