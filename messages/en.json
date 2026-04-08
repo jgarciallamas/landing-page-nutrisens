@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "problem": "The Problem",
+    "solution": "Solution",
+    "metrics": "Results",
+    "howItWorks": "How It Works",
+    "useCases": "Use Cases",
+    "contact": "Contact",
+    "cta": "Request Info"
+  },
+  "hero": {
+    "badge": "World's first dual nitrate + potassium probe",
+    "headline": "Fertilize with precision. Decide with data.",
+    "subheadline": "NUTRISENS measures nitrate and potassium in real time, directly in the soil. The world's first probe with dual capability — no waiting, no interruptions, no guessing.",
+    "cta": "Request information",
+    "ctaSub": "We'll contact you within 24h"
+  },
+  "problem": {
+    "title": "How many kilograms are you losing by fertilizing blind?",
+    "subtitle": "Without real-time data, every fertigation decision is a costly gamble",
+    "point1": "Lab analyses take days — your crops can't wait",
+    "point2": "Nitrate overdosing: unnecessary cost and fines under European regulations",
+    "point3": "Leaching into aquifers: environmental damage and risk of regulatory sanctions",
+    "point4": "Decisions based on intuition, not data — with margins narrowing every season"
+  },
+  "solution": {
+    "title": "NUTRISENS: real data, precise decisions",
+    "subtitle": "The only probe in the world that measures nitrate and potassium simultaneously, in real time, without interruption",
+    "feature1Title": "Unique dual measurement",
+    "feature1Desc": "Nitrate and potassium simultaneously with a single probe. The world's first patented technology with this capability.",
+    "feature2Title": "Continuous real time",
+    "feature2Desc": "Uninterrupted data. Nutrient concentration updated as the crop grows.",
+    "feature3Title": "Patented and validated",
+    "feature3Desc": "Technology patented by Verdesmart. Metrics proven in real farms with documented results.",
+    "feature4Title": "Eco compatible",
+    "feature4Desc": "Suitable for certified organic farming. Complies with European directives 91/676/EC and 2003/1882/EC."
+  },
+  "metrics": {
+    "title": "Proven field results",
+    "subtitle": "Not promises. Real data from real farmers.",
+    "stat1Value": "60",
+    "stat1Prefix": "up to",
+    "stat1Suffix": "%",
+    "stat1Label": "savings in nitrates",
+    "stat2Value": "30",
+    "stat2Prefix": "+",
+    "stat2Suffix": "%",
+    "stat2Label": "efficiency in potassium use",
+    "stat3Value": "11",
+    "stat3Prefix": "+",
+    "stat3Suffix": "%",
+    "stat3Label": "improvement in tomato caliber"
+  },
+  "howItWorks": {
+    "title": "That simple",
+    "subtitle": "From probe to optimized fertigation in 4 steps",
+    "step1Number": "01",
+    "step1Title": "Install the probe",
+    "step1Desc": "Place NUTRISENS in the root zone. Quick installation, plug & play with your existing irrigation system.",
+    "step2Number": "02",
+    "step2Title": "Real-time data",
+    "step2Desc": "Nitrate and potassium concentration updated continuously. No pauses, no delays, no information gaps.",
+    "step3Number": "03",
+    "step3Title": "Analyze trends",
+    "step3Desc": "Visualize nutrient evolution in your platform. Detect deficits before they affect yield.",
+    "step4Number": "04",
+    "step4Title": "Decide with precision",
+    "step4Desc": "Adjust fertigation based on what's happening right now in the soil. Zero overdosing, zero leaching."
+  },
+  "useCases": {
+    "title": "Built for the most demanding crops",
+    "subtitle": "From high-yield greenhouses to areas with strict water regulation",
+    "case1Title": "Intensive crops",
+    "case1Desc": "Tomato, pepper, cucumber, lettuce. Maximize yield per hectare while cutting nutrient costs by up to 60%.",
+    "case2Title": "Organic farming",
+    "case2Desc": "Compatible with eco certification. Optimize organic fertilizer use with real soil data. Sustainable with evidence.",
+    "case3Title": "Water protection zones",
+    "case3Desc": "Complies with directives 91/676/EC and 2003/1882/EC. Reduces nitrate leaching into aquifers and avoids sanctions."
+  },
+  "contact": {
+    "title": "Your competition is already making better decisions",
+    "subtitle": "How many more seasons can you afford to fertilize blind? Request information now.",
+    "formName": "Name",
+    "formEmail": "Professional email",
+    "formCompany": "Company / Farm",
+    "formMessage": "How can we help you?",
+    "formSubmit": "Request information",
+    "formSending": "Sending...",
+    "formSuccess": "Done! We'll contact you within 24h.",
+    "formError": "Sending failed. Please try again.",
+    "namePlaceholder": "Your full name",
+    "emailPlaceholder": "you@company.com",
+    "companyPlaceholder": "Your company or farm name",
+    "messagePlaceholder": "Tell us about your crop, acreage and what you want to optimize...",
+    "privacy": "By submitting this form you accept our privacy policy."
+  },
+  "footer": {
+    "tagline": "Precision in every drop. Data in every gram of nutrient.",
+    "legal": "Legal notice",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "madeBy": "Technology by"
+  }
+}

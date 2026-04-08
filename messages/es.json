@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "problem": "El Problema",
+    "solution": "Solución",
+    "metrics": "Resultados",
+    "howItWorks": "Cómo Funciona",
+    "useCases": "Casos de Uso",
+    "contact": "Contacto",
+    "cta": "Solicitar Info"
+  },
+  "hero": {
+    "badge": "Primera sonda dual nitrato + potasio del mundo",
+    "headline": "Fertiliza con precisión. Decide con datos.",
+    "subheadline": "NUTRISENS mide nitrato y potasio en tiempo real, directamente en el suelo. La primera sonda del mundo con capacidad dual — sin esperas, sin interrupciones, sin errores.",
+    "cta": "Solicitar información",
+    "ctaSub": "Te contactamos en menos de 24h"
+  },
+  "problem": {
+    "title": "¿Cuántos kilos estás perdiendo por fertilizar a ciegas?",
+    "subtitle": "Sin datos en tiempo real, cada decisión de fertirriego es una apuesta costosa",
+    "point1": "Los análisis de laboratorio tardan días — tus cultivos no pueden esperar",
+    "point2": "Sobredosificación de nitratos: gasto innecesario y multas por normativa europea",
+    "point3": "Lixiviación hacia acuíferos: impacto ambiental y riesgo de sanciones regulatorias",
+    "point4": "Decisiones basadas en intuición, no en datos — con márgenes que se estrechan cada campaña"
+  },
+  "solution": {
+    "title": "NUTRISENS: datos reales, decisiones precisas",
+    "subtitle": "La única sonda del mundo que mide nitrato y potasio simultáneamente, en tiempo real, sin interrupciones",
+    "feature1Title": "Medición dual única",
+    "feature1Desc": "Nitrato y potasio simultáneos con una sola sonda. Primera tecnología patentada del mundo con esta capacidad.",
+    "feature2Title": "Tiempo real continuo",
+    "feature2Desc": "Datos sin interrupciones. La concentración de nutrientes actualizada mientras el cultivo crece.",
+    "feature3Title": "Patentada y validada",
+    "feature3Desc": "Tecnología patentada por Verdesmart. Métricas probadas en explotaciones reales con resultados documentados.",
+    "feature4Title": "Compatible con ECO",
+    "feature4Desc": "Apta para agricultura ecológica certificada. Cumple directivas europeas 91/676/EC y 2003/1882/EC."
+  },
+  "metrics": {
+    "title": "Resultados probados en campo",
+    "subtitle": "No son promesas. Son datos reales de agricultores reales.",
+    "stat1Value": "60",
+    "stat1Prefix": "hasta",
+    "stat1Suffix": "%",
+    "stat1Label": "de ahorro en nitratos",
+    "stat2Value": "30",
+    "stat2Prefix": "+",
+    "stat2Suffix": "%",
+    "stat2Label": "de eficiencia en potasio",
+    "stat3Value": "11",
+    "stat3Prefix": "+",
+    "stat3Suffix": "%",
+    "stat3Label": "de mejora en calibre de tomate"
+  },
+  "howItWorks": {
+    "title": "Así de simple",
+    "subtitle": "De la sonda al fertirriego optimizado en 4 pasos",
+    "step1Number": "01",
+    "step1Title": "Instala la sonda",
+    "step1Desc": "Coloca NUTRISENS en la zona radicular. Instalación rápida, plug & play con tu sistema de riego existente.",
+    "step2Number": "02",
+    "step2Title": "Datos en tiempo real",
+    "step2Desc": "Concentración de nitrato y potasio actualizada de forma continua. Sin pausas, sin demoras, sin hueco de información.",
+    "step3Number": "03",
+    "step3Title": "Analiza tendencias",
+    "step3Desc": "Visualiza la evolución de nutrientes en tu plataforma. Detecta déficits antes de que afecten al rendimiento.",
+    "step4Number": "04",
+    "step4Title": "Decide con precisión",
+    "step4Desc": "Ajusta el fertirriego basándote en lo que está pasando ahora mismo en el suelo. Cero sobredosificación, cero lixiviación."
+  },
+  "useCases": {
+    "title": "Hecho para los cultivos que más exigen",
+    "subtitle": "Desde invernaderos de alta producción hasta zonas con regulación hídrica estricta",
+    "case1Title": "Cultivos intensivos",
+    "case1Desc": "Tomate, pimiento, pepino, lechuga. Maximiza el rendimiento por hectárea reduciendo el coste de nutrientes hasta un 60%.",
+    "case2Title": "Agricultura ecológica",
+    "case2Desc": "Compatible con certificación eco. Optimiza el uso de abonos orgánicos con datos reales del suelo. Sostenible con evidencia.",
+    "case3Title": "Zonas de protección hídrica",
+    "case3Desc": "Cumple directivas 91/676/EC y 2003/1882/EC. Reduce la lixiviación de nitratos hacia acuíferos y evita sanciones."
+  },
+  "contact": {
+    "title": "Tu competencia ya está tomando mejores decisiones",
+    "subtitle": "¿Cuántas campañas más puedes permitirte fertilizar a ciegas? Solicita información ahora.",
+    "formName": "Nombre",
+    "formEmail": "Email profesional",
+    "formCompany": "Empresa / Explotación",
+    "formMessage": "¿En qué podemos ayudarte?",
+    "formSubmit": "Solicitar información",
+    "formSending": "Enviando...",
+    "formSuccess": "¡Perfecto! Te contactamos en menos de 24h.",
+    "formError": "Error al enviar. Inténtalo de nuevo.",
+    "namePlaceholder": "Tu nombre y apellido",
+    "emailPlaceholder": "tu@empresa.com",
+    "companyPlaceholder": "Nombre de tu empresa o explotación",
+    "messagePlaceholder": "Cuéntanos sobre tu cultivo, superficie y qué quieres optimizar...",
+    "privacy": "Al enviar este formulario aceptas nuestra política de privacidad."
+  },
+  "footer": {
+    "tagline": "Precisión en cada gota. Datos en cada gramo de nutriente.",
+    "legal": "Aviso legal",
+    "privacy": "Privacidad",
+    "cookies": "Cookies",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados.",
+    "madeBy": "Tecnología por"
+  }
+}
